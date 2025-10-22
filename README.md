@@ -8,7 +8,7 @@ This project demonstrates a event-driven serverless architecture for image proce
 
 ## 🏗️ Architecture Diagram
 
-![Architecture Diagram](/architecture-diagram.png)
+![Architecture Diagram](./architecture-diagram.png)
 
 ## ⚡ AWS Services Used
 
