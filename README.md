@@ -29,7 +29,6 @@ This project demonstrates a event-driven serverless architecture for image proce
 
 ### Prerequisites
 - AWS Account
-- AWS CLI configured
 - Python 3.9+
 
 ### Steps
