@@ -59,6 +59,14 @@ This project demonstrates a event-driven serverless architecture for image proce
 - DynamoDB table for storing image metadata
 - API Gateway with CORS enabled
 
+## 🔗 Live AWS Resources
+
+- **[Original Images Bucket](https://us-east-1.console.aws.amazon.com/s3/buckets/rehab-original-images-2025?region=us-east-1&tab=objects&bucketType=general)**
+- **[Processed Images Bucket]((https://us-east-1.console.aws.amazon.com/s3/buckets/rehab-processed-images-2025?region=us-east-1&bucketType=general&tab=objects))** 
+- **[Resize Lambda Function](arn:aws:lambda:us-east-1:353385935766:function:resizeImageFunction)**
+- **[API Upload Lambda](arn:aws:lambda:us-east-1:353385935766:function:apiImageUploadFunction)**
+
+
 ## 📞 Contact
 
 For questions about this serverless image processing project, please refer to the AWS documentation or open an issue in this repository.
