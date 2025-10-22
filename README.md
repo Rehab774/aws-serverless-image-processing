@@ -66,10 +66,6 @@ This project demonstrates a event-driven serverless architecture for image proce
 
 
 
-## 📞 Contact
-
-For questions about this serverless image processing project, please refer to the AWS documentation or open an issue in this repository.
-
 ---
 
 *Built with AWS Serverless Technologies 🚀*
